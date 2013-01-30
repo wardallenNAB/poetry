@@ -1,4 +1,4 @@
-# A soliloquy of Marc Antony
+ fs:wq:# A soliloquy of Marc Antony
 
 O pardon me thou bleeding piece of earth
 That I am meek and gentle with these butchers
@@ -16,10 +16,11 @@ And dreadful objects so familiar
 That mothers shall but smile when they behold
 Their infants quartered by the hands of war
 All pity choked with custom of fell deeds
+<<<<<<< HEAD
+
+There was a young boy from Nantucket
+=======
 Then Caesar's spirit, raging with revenge
 With Ate by his side come hot from hell
-Shall in these confines and with a monarch's voice
-Cry "Havoc!" and let slip the dogs of war
 
-I've got a lovely bunch of coconuts..
-
+>>>>>>> fb37b4445c723542516cf54989f713abcc01d2af
